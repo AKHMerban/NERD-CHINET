@@ -1,7 +1,7 @@
-# Chid Net Project
+# Nerd Chinet
 
-## About Chid Net
-**Chid Net** is a network service provider focused on designing and securing reliable network infrastructures for businesses. We specialize in custom network solutions that prioritize security, efficiency, and cost-effectiveness. Our mission is to support businesses in building secure, scalable, and robust networks that meet modern security standards.
+## About Nerd Chinet
+**Nerd Chinet** is a network service provider focused on designing and securing reliable network infrastructures for businesses. We specialize in custom network solutions that prioritize security, efficiency, and cost-effectiveness. Our mission is to support businesses in building secure, scalable, and robust networks that meet modern security standards.
 
 ## Project Overview
 This repository contains files and documentation for the Chid Net project, where we aim to develop a secure network infrastructure plan for a client relocating to a new office. The project includes:
